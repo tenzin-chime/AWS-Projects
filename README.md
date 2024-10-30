@@ -4,9 +4,9 @@ Cloud Computing is the on-demand availability of computing services especially s
 
 Amazon Web Services (AWS) offers many services in cloud computing and it is chosen by my clients based on flexible, reliable, scalable, easy-to-use and cost-effective cloud computing solutions that includes a mixture of infrastructure as a service, platform as a service and software as a service offerings.
 
-This repository contains various AWS projects I've worked on.
+### This repository contains various AWS projects I've worked on.
 
-## Projects
+#### Projects
 
 - [S3 Static Website](./s3-static-website): A simple static website hosted on S3 with CloudFront.
 
