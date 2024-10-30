@@ -8,6 +8,6 @@ Amazon Web Services (AWS) offers many services in cloud computing and it is chos
 
 #### Projects
 
-- [S3 Static Website](./s3-static-website): A simple static website hosted on S3 with CloudFront.
+- [S3 Static Website](./S3-static-website): A simple static website hosted on S3 with CloudFront.
 
 Each project folder contains its own README with setup instructions and details.
